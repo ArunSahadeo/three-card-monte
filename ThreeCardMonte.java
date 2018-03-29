@@ -7,7 +7,6 @@ public class ThreeCardMonte
     {
         Scanner reader = new Scanner(System.in);
         int input;
-        boolean incorrectInput = true;
 
         System.out.printf("%s", "Please enter a number from 1 to 3: ");
 
